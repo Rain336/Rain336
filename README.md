@@ -5,7 +5,7 @@ Well, since you are already here, I am Rain (he/them) and I write software in a 
 
 ## Fursona
 
-<img align="right" width="300" src="rain.png" alt="GIF of a blue dragon standing in the rain with a green raincoat">
+<img align="right" src="rain.png" alt="GIF of a blue dragon standing in the rain with a green raincoat">
 
 My sona is a blue very fluffy water dragon named Rain, he can breath under water using gills hidden under his fur, but otherwise he is just your regular fire-breathing dragon. That is all you need to know for now. Artwork by [maia](https://twitter.com/maiathoustra).
 
